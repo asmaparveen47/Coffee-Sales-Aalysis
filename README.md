@@ -22,5 +22,10 @@ Recently under took a task to analyze the coffee sales dataset of data 1,49,117.
 
 4.coffee 🥤  is the common product category preferred by customer followed by tea .
 
+5.espresso 🍵  is common product type which is preferred by customers.
+
+
+6.Astoria 🌏 is the common coffee point preferred by people.
+
 # Coffee-Sales-Aalysis
 link to dashboard -https://app.powerbi.com/view?r=eyJrIjoiMmRlMWVkYzctMDViNC00NmFlLWEzN2UtYmU4ODNlNmQ5M2Q1IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
